@@ -1,7 +1,7 @@
   # <div align="center">![pointwall (2)](https://github.com/PointWall/.github/assets/66481194/606771d9-a74f-47c3-a430-d194ebc4c5f4)</div>
   _PointWall es una galería colaborativa digital de arte urbano. Liga la ubicación con la obra, permite ver los cambios con el paso del tiempo y los artistas que intervinieron. Cualquier persona desde cualquier parte del mundo puede subir sus fotos..._
 
-  # Descubre más de nosotros 🕊️
+  # Descubre más sobre nosotros 🕊️
   - Visitanos en [pointwall.com.ar](https://pointwall.com.ar) 🌐
   - Descarga nuestra aplicación
   <div align="center">
